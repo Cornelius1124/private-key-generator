@@ -21,6 +21,5 @@ Install the required Python library:
 
 ```bash
 pip install ecdsa
-
-
-dsds
+```
+Once you installed it on your terminal (Command Prompt for windows) you can execute the program
