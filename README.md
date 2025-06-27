@@ -13,7 +13,7 @@ A **Bitcoin private key generator** with `P = k * G`, built in Python using the 
 
 ---
 
-## Installation
+## Installation & Usage
 
 Make sure you have **Python 3** installed.
 
@@ -43,6 +43,6 @@ And now you can obtain Private-Public key by
 ```bash
 python generator_key_2.py
 ```
-
+Contact me for any information that related with the repository
 
 
