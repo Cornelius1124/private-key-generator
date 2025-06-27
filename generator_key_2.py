@@ -13,5 +13,5 @@ print("Private Key (hex):", private_key_bytes.hex())
 print("Private Key (int):", private_key_int)
 print("Public Key (uncompressed):", public_key_hex)
 
-# Keeps the window open
+# Keeps the window open for goddamn manual way but optional only
 input("\nPress Enter to exit...")
