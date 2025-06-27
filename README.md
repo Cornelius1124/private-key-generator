@@ -39,5 +39,10 @@ C:\Users\hp>cd private-key-generator
 
 C:\Users\hp\private-key-generator>
 ```
+And now you can obtain Private-Public key by
+```bash
+python generator_key_2.py
+```
+
 
 
