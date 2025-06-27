@@ -22,4 +22,22 @@ Install the required Python library:
 ```bash
 pip install ecdsa
 ```
-Once you installed it on your terminal (Command Prompt for windows) you can execute the program
+Once you installed it on your terminal (Command Prompt for windows) you can execute the program you can clone the repository.
+```bash
+git clone https://github.com/Cornelius1124/private-key-generator.git
+```
+After executing the bash code you can run 
+```bash
+cd private-key-generator
+```
+Then will show
+```bash
+Microsoft Windows [Version 10.0.22631.5472]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\hp>cd private-key-generator
+
+C:\Users\hp\private-key-generator>
+```
+
+
